@@ -1,0 +1,155 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+body{
+background-color:#D8D8D8;
+font-family: 'Baloo Paaji 2', cursive;
+
+
+
+}
+.container{
+
+width: 1000px;
+background-color:#706E6E;
+margin: 0 auto;
+padding: 20px;
+
+
+}
+.profile{
+
+ width: 130px;
+ height: 130px;
+ border:3px solid white;
+ border-radius:50%;
+ float:left;
+ 
+}
+.name{
+float: left;
+padding:20px;
+font-size: 20px;
+color:#3498db ;
+
+
+
+
+}
+.link{
+float: right;
+padding: 30px;
+
+
+
+
+}
+.link a{
+text-decoration:none;
+color:#3498db ;
+font-weight: bold;
+cursor: pointer;
+
+
+
+}
+.link a:hover{
+color:#FF5733 ;
+text-decoration: underline;
+
+
+}
+.clear{
+
+clear: both;;
+
+}
+hr{
+
+    border:2px black solid;
+   margin: 20px auto;
+
+}
+.Personal{
+color:#3498db;
+
+
+
+}
+.left{
+width:30%;
+float: left;
+
+
+}
+.right{
+width:70%;
+float: right;
+
+
+}
+.common-hr{
+
+border: black 1px solid;
+margin: 30px auto;
+width:100%
+
+
+}
+.clear2{
+
+clear: both;
+}
+.content{
+
+margin-bottom:30px;
+}
+.para{
+text-align:justify;
+
+
+}
+.div-left{
+
+    float: left;
+    width: 45%;
+    
+}
+.div-right{
+
+
+    float: right;
+    width: 45%;
+   
+}
+h3{
+
+    color: #3498db;
+}
+.bottom-container{
+
+   background-color: black;
+   text-align: center;
+   padding: 20px;
+}
+.bottom-container a{
+
+    color: white;
+    text-decoration: none;
+    margin:20px;
+
+}
+.bottom-container  p{
+
+    color: white;
+    margin: 20px;
+}
+.bottom-container a:hover{
+
+ text-decoration: underline;
+ cursor: pointer;
+ color:rgb(88, 51, 255);
+}
